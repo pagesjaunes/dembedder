@@ -1,0 +1,15 @@
+[submodule "pydembedder/deps/hyperbolic_cones"]
+	path = pydembedder/deps/hyperbolic_cones
+	url = https://github.com/dalab/hyperbolic_cones
+[submodule "third-party/GMatch4py"]
+	path = third-party/GMatch4py
+	url = https://github.com/Jacobe2169/GMatch4py.git
+[submodule "third-party/aproximated_ged"]
+	path = third-party/aproximated_ged
+	url = https://github.com/priba/aproximated_ged.git
+[submodule "third-party/Taxonomy_Refinement_Embeddings"]
+	path = third-party/Taxonomy_Refinement_Embeddings
+	url = https://github.com/uhh-lt/Taxonomy_Refinement_Embeddings.git
+[submodule "third-party/argh"]
+	path = third-party/argh
+	url = https://github.com/adishavit/argh.git
