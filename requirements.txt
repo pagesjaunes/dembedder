@@ -1,0 +1,12 @@
+gensim==3.4.0
+tqdm
+numpy==1.13.1
+networkx==1.11
+nltk==3.5
+scikit-learn==0.18.1
+pandas==0.24.2
+sparqlwrapper
+googletrans
+scipy==1.2.1
+matplotlib==3.0.3
+spacy==2.0.12
